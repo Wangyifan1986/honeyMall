@@ -1,0 +1,8 @@
+{
+  "name": "honeyMall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Wangyifan1986/honeyMall.git",
+  "author": "wangyifan <wangyifan09rd@126.com>",
+  "license": "MIT"
+}
